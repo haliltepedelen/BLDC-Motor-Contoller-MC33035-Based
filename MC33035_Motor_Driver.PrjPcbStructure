@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Gate_Driver_cct.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Gate_Driver_cct.SchDoc|FileName=MC33035_cct.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Gate_Driver_cct.SchDoc|FileName=Mosfet_cct.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Gate_Driver_cct.SchDoc|FileName=Parallel_Capacitor.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Gate_Driver_cct.SchDoc|FileName=Regulator_cct.SchDoc|SheetNumber= 
